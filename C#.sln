@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders_5_pratikuygulamalar", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders_6_diziler", "ders_6_diziler\ders_6_diziler.csproj", "{EBDF4F1D-DD57-4FF6-9E3F-E4244864254C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders_7_foreachdöngüsü", "ders_7_foreachdöngüsü\ders_7_foreachdöngüsü.csproj", "{68787B96-3745-4FF0-B75A-A8F5BB7BAD2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders_8_Metotlar", "ders_8_Metotlar\ders_8_Metotlar.csproj", "{36DDACF5-8B86-4EA0-94F5-9D2A1B0E3108}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{EBDF4F1D-DD57-4FF6-9E3F-E4244864254C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBDF4F1D-DD57-4FF6-9E3F-E4244864254C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBDF4F1D-DD57-4FF6-9E3F-E4244864254C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68787B96-3745-4FF0-B75A-A8F5BB7BAD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68787B96-3745-4FF0-B75A-A8F5BB7BAD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68787B96-3745-4FF0-B75A-A8F5BB7BAD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68787B96-3745-4FF0-B75A-A8F5BB7BAD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36DDACF5-8B86-4EA0-94F5-9D2A1B0E3108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DDACF5-8B86-4EA0-94F5-9D2A1B0E3108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DDACF5-8B86-4EA0-94F5-9D2A1B0E3108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DDACF5-8B86-4EA0-94F5-9D2A1B0E3108}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

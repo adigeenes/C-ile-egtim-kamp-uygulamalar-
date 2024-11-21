@@ -23,7 +23,7 @@ namespace DERS_10_VERİTANİ_İŞLEMLERİ_CRUD
                 Console.WriteLine("----------------------------");
 
             #region Kategori Ekleme İşlemi
-            //Console.Write("Eklemek istediğiniz kategori adı: ");
+           // Console.Write("Eklemek istediğiniz kategori adı:: ");
             //string categoryName = Console.ReadLine();
             //SqlConnection connection = new SqlConnection("Data Source=LAPTOP-LKPKUF2A\\SQLEXPRESS;Initial Catalog=EgtimKampiDb;Integrated Security=True;Encrypt=True;TrustServerCertificate=True");
             //connection.Open();
